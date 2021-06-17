@@ -12,6 +12,7 @@ const languageNames = {
   en: 'English',
   pl: 'Polski',
   es: 'Español',
+  zh: '简体中文',
 };
 
 /**
