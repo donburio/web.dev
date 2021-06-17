@@ -1,39 +1,49 @@
 file_a_bug:
   en: File a bug
   es: Presentar un error
+  zh: 反馈问题
 
 view_source:
   en: View source
   es: Ver fuente
+  zh: 查看源码
 
 updates:
   en: Updates
   es: Actualizaciones
+  zh: 更新内容
 
 web_fundamentals:
   en: Web Fundamentals
   es: Web Fundamentals
+  zh: Web Fundamentals
 
 case_studies:
   en: Case studies
   es: Case studies
+  zh: 个案研究
 
 podcasts:
   en: Podcasts
   es: Podcasts
+  zh: 播客
 
 connect:
   en: Connect
   es: Conectar
+  zh: 连接
 
 all_products:
   en: All products
   es: Todos los productos
+  zh: 所有产品
 
 terms_and_privacy:
   en: Terms & Privacy
   es: Condiciones y privacidad
+  zh: 条款及隐私
 
 community_guidelines:
   en: Community Guidelines
   es: Principios de la Comunidad
+  zh: 社群方针

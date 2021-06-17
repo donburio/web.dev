@@ -5,30 +5,37 @@ header:
 resources:
   en: resources
   es: recursos
+  zh: 资源
 
 course:
   en: Course
   es: Curso
+  zh: 课程
 
 courses:
   en: Courses
   es: Cursos
+  zh: 课程
 
 performance:
   en: Performance
   es: Performance
+  zh: 性能
 
 build_excellent:
   en: Build excellent websites
   es: Crea sitios web excelentes
+  zh: 构建出色网站
 
 frameworks:
   en: Frameworks
   es: Frameworks
+  zh: 框架
 
 lighthouse:
   en: Lighthouse
   es:  Lighthouse
+  zh: Lighthouse
 
 explorations:
   en: Explorations

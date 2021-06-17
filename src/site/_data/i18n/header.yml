@@ -1,6 +1,7 @@
 learn:
   en: Learn
   es: Aprender
+  zh: 学习
 
 measure:
   en: Measure
@@ -9,15 +10,19 @@ measure:
 blog:
   en: Blog
   es: Blog
+  zh: 博客
 
 about:
   en: About
   es: About
+  zh: 关于
 
 live:
   en: Live
   es: Live
+  zh: 直播
 
 open_menu:
   en: Open menu
   es: Abrir menú
+  zh: 开启菜单
