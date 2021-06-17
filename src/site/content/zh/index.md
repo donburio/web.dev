@@ -4,7 +4,7 @@ description: |
   借由 web.dev 的指引及分析，构建现代化的网站和应用。
 date: 2018-11-05
 i18n:
-  headline: 让我们共筑 Web 的未来
+  headline: 让我们携手共筑 Web 的未来
   subheadline: |
     借由 web.dev 的指引及分析，构建现代化的网站和应用。
   test_cta: 评估我的网站
